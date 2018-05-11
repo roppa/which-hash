@@ -1,0 +1,23 @@
+{
+  "name": "which-hash",
+  "version": "0.1.0",
+  "description": "Find out which cryptographic algorithm generated your hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --forceExit"
+  },
+  "keywords": [
+    "crypto",
+    "hash",
+    "algorithm"
+  ],
+  "author": {
+    "name": "Mark Robson",
+    "email": "mark.o.robson@gmail.com",
+    "url": "https://digioli.co.uk"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "22.4.3"
+  }
+}
