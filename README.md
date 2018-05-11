@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/roppa/which-hash.svg?style=svg)](https://circleci.com/gh/roppa/which-hash)
+
 # Which Hash?
 
 So you have some input, and you have a hex hash string, but you don't know which hashing algorithm was used? Think again! Find out which it is with this handy tool!
