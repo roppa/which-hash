@@ -2,6 +2,10 @@
   "name": "which-hash",
   "version": "0.1.0",
   "description": "Find out which cryptographic algorithm generated your hash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roppa/which-hash.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage --forceExit"
